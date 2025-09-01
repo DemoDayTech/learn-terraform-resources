@@ -6,6 +6,7 @@
 *.tfstate.*
 
 *.plan
+*.pem
 
 # Crash log files
 crash.log
